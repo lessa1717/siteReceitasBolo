@@ -1,0 +1,19 @@
+html {
+background-color: khaki;
+
+
+}
+
+p{
+    background-color: white;
+    border: 1px solid black;
+}
+
+.texto1 {
+    padding: 0px 100px;
+    
+}
+.texto2{
+    width: 100%px;
+    margin: 50px auto;
+}
