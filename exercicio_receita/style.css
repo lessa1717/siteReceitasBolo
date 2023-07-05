@@ -142,6 +142,8 @@ ul {
 
 }
 
+
+
 .rodapé {
     width:100%;
     display: flex;
@@ -150,17 +152,22 @@ ul {
     height: 150px;
     background-color:sandybrown;
 
+}
 
 
+.rodapé ul{
+    margin: 50px;
 }
 
 .textoFooter {
     font-family: 'Righteous';
     font-size: 18px;
+    margin: 50px;
 
 }
 
 .icones_parceiros{
+   
         display: flex;
         align-items: center;
         gap: 10px;
